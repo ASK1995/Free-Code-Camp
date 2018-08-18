@@ -1,0 +1,46 @@
+html,body{
+  font-family: Helvetica, sans-serif;
+  text-align:center;
+  min-width:250px;
+  color:green;
+}
+#main{
+  margin:10px auto;
+  padding:5px;
+  border:5px solid;
+  border-radius:15px;
+  background: orange;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid black;
+  background:white;
+}
+#img-caption{
+  margin:15px;
+}
+#headline{
+  margin-top:20px;
+  text-align:center;
+  color:blue;
+}
+ul{
+  max-width:450px;
+  margin:0 auto;
+  text-align:left;
+}
+li{
+  margin: 10px;
+}
+blockquote{
+  font-style: italic;
+  color:red;
+}
